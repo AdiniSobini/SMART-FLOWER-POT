@@ -4,7 +4,7 @@
 
 If you programing arduino in arduino IDE on Linux you can have this error
 
-"Permission deniedFailed uploading: uploading error: exit status 1"
+"Permission denied Failed uploading: uploading error: exit status 1"
 
 to fix run this
 
