@@ -8,7 +8,6 @@ If you programing arduino in arduino IDE on Linux you can have this error
 
 to fix run this
 
-'''
 ```bash 
 sudo chmod a+rw /dev/ttyACM0
 ```
