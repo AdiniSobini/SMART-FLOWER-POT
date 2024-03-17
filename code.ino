@@ -1,9 +1,9 @@
 
 #define LED_PIN     2
 #define LED_PIN_2   4
-#define POWER_PIN   7
-#define SIGNAL_PIN  A3
-#define THRESHOLD   300
+#define POWER_PIN   8
+#define SIGNAL_PIN  A0
+#define THRESHOLD   400
 
 
 int value = 0; // variable to store the sensor value
