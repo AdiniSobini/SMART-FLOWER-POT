@@ -11,3 +11,9 @@ to fix run this
 ```bash 
 sudo chmod a+rw /dev/ttyACM0
 ```
+
+or
+
+```bash 
+sudo chmod a+rw /dev/ttyUSB0
+```
